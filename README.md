@@ -1,4 +1,3 @@
-An-lise-de-Qualidade-M-tricas-para-Modelos-de-Recomenda-o-
 
 # Análise de Qualidade: Métricas para Modelos de Recomendação
 
